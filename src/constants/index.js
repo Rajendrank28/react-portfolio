@@ -23,28 +23,28 @@ export const PROJECTS = [
     image: project1,
     description:
       "This project is a Real-Time Collaborative Code Editor that allows multiple users to write and edit HTML, CSS, and JavaScript simultaneously with instant synchronization. It features live preview, collaborative cursors, and an active users list, enabling a smooth real-time coding experience similar to modern online editors.",
-    technologies: ["React.js", "Node.js", "Express", "MongoDB", "Google Maps API", "Socket.io","Redis,"],
+    technologies: ["React.js", "Node.js", "Express", "MongoDB", "Socket.io","Redis,"],
   },
   {
     title: "Vehiql",
     image: project2,
     description:
       "Vehiql is an AI-powered automotive car marketplace designed to simplify the process of buying and selling vehicles.The platform enables users to search, filter, compare cars, save favorites, and book test drives through a clean, intuitive web interface.AI-driven features enhance search accuracy and assist sellers by generating structured, reliable vehicle listings from images.Built with modern full-stack technologies, the system ensures secure authentication, efficient admin management, and a seamless user experience across devices.  ",
-    technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB"],
+    technologies: [ "Nextjs","ReactJs", "Node.js","ShadCn","Prisma", "Superbase","Gemini"],
   },
   {
     title: "JobBoard",
     image: project3,
     description:
       "JobBoard is a full-stack job portal application built using React, TypeScript, Node.js, Express, and MongoDB.It enables employers to post and manage job listings while allowing candidates to search, apply, and track applications in real time.The platform includes secure JWT-based authentication, role-based access control, and resume uploads using Cloudinary.The application is fully deployed with a React frontend on Vercel and a Node.js backend on Render.",
-    technologies: ["HTML", "CSS", "React.js", "MongoDB",""],
+    technologies: ["ReactJs", "MongoDB","TpeScript","NodeJs","Express","Kanban"],
   },
   {
     title: "Portfolio Website",
     image: project4,
     description:
       "A personal portfolio website showcasing projects, skills, and contact information.",
-    technologies: ["HTML", "CSS", "React", "TailwindCSS"],
+    technologies: ["HTML", "CSS", "React", "TailwindCSS","FramerMOtion","Javascript"],
   },
     
 ];
