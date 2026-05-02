@@ -7,9 +7,9 @@ export const HERO_CONTENT = `I am a passionate front-end developer with strong e
 
 export const ABOUT_TEXT = `I am a dedicated and enthusiastic front-end developer with a strong foundation in building dynamic and responsive web applications using React.js. While I have worked on full-stack MERN projects, my expertise lies in front-end development, crafting seamless user experiences with modern web technologies. I recently worked as a front-end developer at Infotoz Technologies and am currently pursuing my MCA at CMR Institute of Technology, Bangalore. Passionate about technology, I constantly explore new tools, contribute to projects, and stay updated with industry trends. As a tech enthusiast, I thrive on solving complex challenges and building innovative solutions.`;
 
+
 export const EXPERIENCES = [
   {
-<<<<<<< HEAD
     year: "Feb 2026 - Mar 2026",
     role: "Quality Analyst Intern",
     company: "Skypoint",
@@ -22,7 +22,7 @@ export const EXPERIENCES = [
     company: "Infotoz Technologies",
     description: `Worked on developing and optimizing frontend components for web applications using React.js and Tailwind CSS. Assisted in building responsive user interfaces and improving website performance. Collaborated with the development team to implement interactive UI features and enhance the overall user experience.`,
     technologies: ["React.js", "Tailwind CSS", "JavaScript"],
-  }  
+  }
 ];
 
 export const PROJECTS = [
