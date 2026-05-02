@@ -17,8 +17,6 @@ export const EXPERIENCES = [
     technologies: ["Manual Testing", "Postman", "SQL", "DBeaver", "Agile"],
   },
   {
-=======
->>>>>>> 93a6e24660788ab01dbda3606438520bc3b5863e
     year: "Dec 2024 - Jan 2025",
     role: "Frontend Developer Intern",
     company: "Infotoz Technologies",
